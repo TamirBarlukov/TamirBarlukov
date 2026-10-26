@@ -1,7 +1,6 @@
 ![Банер](https://i.pinimg.com/736x/3c/b5/fb/3cb5fb27977e675a3b162c065c998682.jpg)
 
 ## Привет, я **Тамир**! 👋
----
 <h2 align="center">💫 Обо мне</h2>
 
 Я студент 2 курса направления «Прикладная информатика (в дизайне)» и начинающий UI/UX дизайнер. 
@@ -13,7 +12,6 @@
 
 ---
 ### 💻 Технологии
----
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -22,7 +20,6 @@
 
 ---
 ### 🛠 Инструменты
----
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
